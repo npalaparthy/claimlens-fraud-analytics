@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
+models/*.pkl
+models/*.joblib
